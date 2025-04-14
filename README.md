@@ -13,8 +13,6 @@ Welcome to the Lok Sabha Election Analysis Project! This project aims to provide
 - [Results and Insights](#results-and-insights)
 - [Visualization](#visualization)
 - [Conclusion](#conclusion)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
 
 ## Problem Statement :
 AtliQ Media is a private media company and they wanted to telecast a show on Lok Sabha elections 2024 in India. Unlike other channels they do not want to have a debate on who is going to win this election, they rather wanted to present insights from 2014 and 2019 elections without any bias and discuss less explored themes like voter turnout percentage in India. 
@@ -60,15 +58,5 @@ The project includes several visualizations to aid in understanding the data:
 ## Conclusion
 
 This project provides a detailed examination of Lok Sabha election data, revealing critical insights that can assist media companies in their electoral coverage. The findings highlight the importance of demographic factors and regional trends in shaping election outcomes.
-
-## Acknowledgements
-
-I would like to express my sincere gratitude to the Codebasics Team, particularly Dhaval Patel Sir and Hemanand Vadivel Sir, for their outstanding mentorship and unwavering support. Their guidance has been instrumental in shaping this project and my personal growth.
-
-## Contact
-
-Feel free to review the project and provide any suggestions or comments. You can reach me at:
-- Email: [nikhilbabar579@gmail.com]
-
 
 Thank you for your interest in the Lok Sabha Election Analysis Project!
